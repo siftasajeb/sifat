@@ -1,0 +1,123 @@
+<Doctype html>
+	<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width">
+		<meta name="description" content="Affordable and professional web design">
+		<meta name="keywords" content="web design, Affordable web design , professional web design">
+		<meta name="author" content="Brad Traversy">
+	<title>cse.edu.tti</title>
+<link rel="stylesheet" type="text/css" href="./css/style.css">
+
+	</head>
+
+	<body>
+	<header>
+		
+<div class="container">
+<div id="branding">
+	<h1>Department of C<span class="highlight1">o</span>mputer Science & Engineering</h1>
+ <!-- Brand/logo-->
+<a class="navbar-brand" href="indexcse.html">
+<img src="image/ttt.png"class="rounded-circle"; alt="logo" style="width:40px; height:40px;">
+
+</a><br>
+<span class="highlight">TMSS TECHNICAL INSTITUTE</span>
+</div>
+<nav>
+	<ul>
+		<li class="current"><a href="indexcse.html">Home</a></li>
+		<li><a href="about.html">About Cse</a></li>
+		<li><a href="#">Program &#x25BE;</a>
+			<ul>
+				<li><a href="#">graduate</a></li>
+				<li><a href="#">Ungraduate</a></li>
+				<li><a href="#">tution fee</a></li>
+			</ul>
+		<li><a href="./fm.html">faculity member</a></li>
+		<li><a href="./form.html">Admission</a></li>
+<li><a href="./contact.html">contact us</a></li>
+
+	</ul>
+</nav>	
+</div>
+	</header>
+
+	<section id="showcase">
+		<div class="container">
+			<h1>Are You Ready To Apply</h1>
+			<form>
+				<button type="submit" class="button_2">Apply Now</button>
+			</form>
+			
+		</div>
+	</section>
+
+	<section id="newsletter">
+		<div class="container">
+			<h1>About Us</h1>
+			<p>Department Of Computer Science & Engineering</p>
+			Tmss Technical Institute’s mission is defined by its IT-based traditions of service and access. To upheld, TTI started with the Department of Computer Science and Engineering (CSE) in January 24, 2002. After that, Faculty of Science and Information Technology started two more programs: Computer Science (CS) and Computing and Information System (CIS). 
+		</div>
+	</section>
+
+	<section id="boxes">
+<div class="container">
+<div class="box">
+	<img src="./image/014.jpg">
+	<h3>Prof. Mrs. Ahsan Habib</h3>
+	<p>Principle<br>
+	Tmss Technical Institute</p>
+</div>
+<div class="box">
+	<img src="./image/logo.jpg">
+	<h3>Mst. Taslima Akter</h3>
+	<p>Head, Computer Science and Engineering<br>
+	Tmss Technical Institute</p>
+</div>
+<div class="box">
+	<img src="./image/logo.jpg">
+	<h3>Mrs. Abu Saeed</h3>
+	<p>Lecturer, Computer Science and Engineering<br>
+	Tmss Technical Institute</p>
+</div>
+</div>
+	</section>
+	<section id="take">
+		<h1>Takeoff Bulletin, Fall 2017</h1>
+		<p>Computer Science & Engineering (CSE)</p>
+		<form>
+				<button type="submit" class="button_1">First Edition Fall 2017</button>
+			</form>
+	</section>
+	<section id="stb">
+
+		<form>
+				<button type="submit" class="button_4"><h1>Notice Board</h1></button>
+			</form>
+			<form>
+				<button type="submit" class="button_3"><h1>Tuition Fee</h1></button>
+			</form>
+
+	</section>
+	<section id="event">
+		<h1>Events & Activity</h1>
+		<img src="./image/t.jpg"> Class Time Sir With Students           <img src="./image/v.jpg"> CLebrete
+	</section>
+
+<section id="showcase1">
+		<div class="container">
+			<h1>Computer Lab</h1>
+			<p>Tmss Technical Institute</p>
+			<form>
+				<button type="submit" class="button_5">Join Cse On TTI</button>
+			</form>
+
+		</div>
+	</section>
+
+	<footer>
+		<p>© 2018 All Rights Reserved. Designed By Tmss Technical Institute.</p>
+	</footer>
+	</body>
+	</html>
